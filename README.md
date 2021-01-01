@@ -1,5 +1,6 @@
 # GANサンプル
-cf) dajiro.com/entry/2020/05/23/153958
+cf) https://dajiro.com/entry/2020/05/23/153958
+
 GAN + Pytorch + MNIST
 
 ## 訓練：train_mnist_gan
